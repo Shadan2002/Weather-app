@@ -1,2 +1,3 @@
 # Weather-app
-This is the information of the weather
+This is the information of the weather.
+Author-Shadan ahmad khan
